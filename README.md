@@ -9,7 +9,7 @@ A replacement for the ION Login page on the campus of MIT, Manipal.
 Installing
 ==========
 
-Head over to the [Downloads](#) section and download the package for your platform (Window, Mac OS, or Linux)
+Head over to the [Downloads](#) section and download the package for your platform (Window, Mac OS, or Linux).
 
 
 Mission / Why?
